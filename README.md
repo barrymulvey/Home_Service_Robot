@@ -35,7 +35,7 @@ $ mkdir -p catkin_ws/src && cd catkin_ws
 ```
 Clone the driver:
 ```
-$ git clone https://github.com/mulbarry/Home_Service_Robot.git src/Home_Service_Robot
+$ git clone https://github.com/barrymulvey/Home_Service_Robot.git src/Home_Service_Robot
 ```
 Install dependencies:
 ```
